@@ -14998,4 +14998,38 @@ margin-top: 14rem;
 	width: 300px;
 	height: 300px;
   }
-  
+  .icon-image {
+    width: 50px;
+    height: 50px;
+    display: block;
+}
+.single-features {
+    text-align: center;
+    padding: 20px;
+}
+
+.signle-icon img {
+    width: 50px;  /* Adjust size */
+    height: 50px; /* Adjust size */
+    object-fit: contain;
+    display: block;
+    margin: 0 auto 10px;
+}
+.single-features {
+    text-align: center;
+    padding: 15px; /* Reduce padding */
+}
+
+.signle-icon img {
+    width: 50px;  /* Adjust size */
+    height: 50px; /* Adjust size */
+    object-fit: contain;
+    display: block;
+    margin: 0 auto 5px; /* Reduce bottom margin */
+}
+
+.single-features h3 {
+    margin-top: 5px; /* Reduce top margin of the text */
+    font-size: 16px; /* Adjust text size if needed */
+}
+
